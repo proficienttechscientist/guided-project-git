@@ -9,7 +9,7 @@ public class Main {
 
         while(true) {
             double number1, number2;
-            System.out.println("Choose an operator: +, -, *, / or x to stop application");
+            System.out.println("Choose an operator: +, -, *, /, %, ^ or x to stop application");
             operator = input.next().charAt(0);
             if(operator == 'x') break;
 
