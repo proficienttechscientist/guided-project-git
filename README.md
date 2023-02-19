@@ -73,4 +73,4 @@ gradle run
 
 Toghrul Taghiyev - [Toghrul Taghiyev Linkedin](https://www.linkedin.com/in/ttoghrul/) - ttoghrul@gmail.com
 
-Project Link: [https://github.com/ttoghrul/coursera-gp-git](https://github.com/ttoghrul/coursera-gp-git)
+Project Link: [https://github.com/examples-java/guided-project-git](https://github.com/examples-java/guided-project-git)
